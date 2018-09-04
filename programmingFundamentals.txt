@@ -1,0 +1,173 @@
+
+why do we need a language?
+
+machine language
+machine dependent
+assembly language
+High level language
+examples
+
+assembler
+interpreter
+compiler
+
+source code
+binary file
+linker
+static linking libraries
+dynamic linking libraries
+gnu projects
+g++ and gcc
+IDE-Integrated Development Environment
+
+modular programming
+object oriented programming
+
+declaration
+allocation
+initialisation
+extern
+
+functions can do 3 things
+	to give
+	to take
+	to return
+ 
+declaring a function
+defining a function
+calling a function
+
+general format of a function
+argument
+returntype
+rules for naming a function
+
+prototype of a function
+
+dry run
+
+header file
+
+scoping 
+
+static input 
+dynamic input
+
+Errors->
+	1.Synatx error
+	2.Logical error
+	3.Runtime error
+
+Process->
+	1.simple arithematic
+	2.conditional process
+	3.control process
+
+Type casting
+implicit type conversion
+explicit type conversion
+
+calculation b/w different data types-
+int & int --> int
+int & float --> float
+float & int --> float
+float & float --> float
+char & int --> int
+int & char --> int 
+
+ASCII- American standard code for information interchange
+A-65.... Z-90
+a-97.... z-122
+0-48.... 9-57
+
+program for finding ascii code for '#'
+
+operators
+oprints
+operation
+
+operator
+	arthematic
+			binary operator
+					+,-,*,/,%
+			uranary operator
+					increment
+					decrement
+	relational
+	logical
+bitwise operator
+
+problems->
+tell the output
+x=10 y=20 z=30
+	1) ![(x<y)&&(x>z)||(y<z)]
+	2) (x<y)&&(x>z)||!(y<z)
+
+
+priorities
+
+if else
+nested if else
+
+problems-
+1)write a program that checks whether a number is zero or not
+2)write a program that calculates the sum of two no. if first no. is greater than second,otherwise subtract the numbers
+3)write a program that calculate the total amount according to following formula
+  total payable amount= total amount - Discount
+  if total amount > 10,000 then give a discount of 10% otherwise a discount of 5%
+4)write a program that ask user to entrer 2 sides. if two sides are equal then calculate its area otherwise calculate its parameter
+
+ternary operator
+switch case
+
+loops
+initializer
+condition
+counter/updation
+the race example
+
+while loop
+for loop
+do while loop
+
+problems on loops
+	pattern printing problems
+program for printing ascii value for all characters
+
+pointer the magician
+dynamic memory allocation and deallocation
+
+streams
+
+functions
+flow of control
+
+passing arguments to program
+
+data structures
+	arrays
+	structure
+	unions
+	enum
+	stack
+	queue
+	linked list
+	hashing
+
+strings
+
+searching
+	linear search
+	binary search
+sorting
+	bubble sort
+	selection sort
+	insertion sort
+	merge sort
+
+complexity
+	space complexity
+	time complexity
+
+
+Makefile
