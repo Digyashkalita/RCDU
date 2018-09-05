@@ -1,0 +1,51 @@
+1)write a program that takes 2 numbers from user and prints a smallest number which when added to sum of these two number gives a prime number.
+that is if user entered 5 and 7 then program should print 1 because 5+7+1=13 where 13 is prime.
+
+2)Take a number from user and swap all digits at even places with the digit at next odd place. that is if a number is 354286 then the new number is 532468.
+
+3)print the following pattern on the screen using loops
+
+        **********
+        ****  ****
+        ***    ***
+        **      **
+        *        *
+        **      **
+        ***    ***
+        ****  ****
+        **********
+
+4)Given a array of positive integer arrange them in such a manner such that the largest number is present at the middle and number decreases as the index of array moves towards the edges
+for example
+      if array is -> 2 7 20 4 34 5 8 42 57 39 46
+      the resultant array should be-> 2 5 8 34 42 57 46 39 20 7 4          
+
+5)you are given an array of positive numbers of size N.
+  find the total number of pairs(a,b) you can form such that a<b
+
+6)given a array of int of size N where N<32. Print a number whose i-th bit(in binary representation) is same as i-th bit of i-th element of array.
+ 
+7)write a program that reads a text file and calculates sum of length of all words that contains more than 2 vowels.
+For Example- "Hello world! this is a file reading program "
+  the words are-                 Hello+file+reading+program
+  so, sum of length of words is-   5  +  4 +   7   +   7    = 23
+
+8)given a alphanumeric string made of digits and character. Find the sum of all the digits in the string
+
+9)Given two strings, write a program that efficiently finds the longest common subsequence.
+
+10)Given a Set of N elements in the form of array of size N. Print power set of this set.
+
+11)Print all the possible permutation of a given set of elements(in the form of array of size N)
+
+12)Write a File Manager Program that maintains a list of files stored on harddisk by the program.
+Program provides the following option to user-
+      *write new files to harddisk,
+      *delete old files on hardisk,
+      *modify old files on harddisk,
+      *print content of a file on harddisk,
+      *prints the list of all files present on harddisk,
+      *print the size of particular file, 
+      *find and replace a particular word in a file
+      *exit
+Create a menu for providing above options and program keeps on running until user chooses exit.
