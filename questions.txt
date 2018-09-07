@@ -1,4 +1,4 @@
-1)write a program that takes 2 numbers from user and prints a smallest number which when added to sum of these two number gives a prime number.
+1)write a program that takes 2 numbers from user and prints a smallest possible number which when added to sum of these two number will gives a prime number.
 that is if user entered 5 and 7 then program should print 1 because 5+7+1=13 where 13 is prime.
 (3 points)
 
@@ -51,7 +51,8 @@ For Example- "Hello world! this is a file reading program "
 8)given a alphanumeric string made of digits and character. Find the sum of all the digits in the string. 
 (3 points)
 
-9)Given two strings, write a program that efficiently finds the longest common subsequence.(3 points)
+9)Given two strings, write a program that efficiently finds the longest common subsequence. That is, if there are two strings "school" and "swimming pool" then the longest common subsequence/substring is "ool"
+(3 points)
 
 10)Given a Set of N elements in the form of array of size N. Print power set of this set.
 (5 points)
